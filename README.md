@@ -10,7 +10,7 @@
   <h3 align="center">Sudoku Application</h3>
 
   <p align="center">
-    Sudoku Desktop Java Application
+    Sudoku Java Application
     <br />
     <a href="https://github.com/siddeshbb/JavaSudokuApp"><strong>Explore the docs »</strong></a>
     <br />
