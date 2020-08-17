@@ -1,4 +1,4 @@
-# Sudoku Desktop Java Application
+# Sudoku Java Application
 
 <!-- PROJECT LOGO -->
 <br />
