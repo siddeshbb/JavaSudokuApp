@@ -8,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/siddeshbb/JavaSudokuApp">
+    <img src="images/sudoku_logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Sudoku Application</h3>
