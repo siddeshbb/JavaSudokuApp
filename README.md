@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/siddeshbb/JavaSudokuApp/blob/master/images/sudko_game.PNG" alt="Screenshot" width="500" height="500">
 
 This is a Java Desktop Application built using JavaFX.
 
@@ -138,4 +138,4 @@ Project Link: [https://github.com/siddeshbb/JavaSudokuApp](https://github.com/si
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/sudoku_game.png
