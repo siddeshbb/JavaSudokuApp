@@ -38,11 +38,11 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-<!-- * [Usage](#usage) -->
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
+<!-- * [Usage](#usage) -->
 <!-- * [License](#license) -->
 
 <!-- ABOUT THE PROJECT -->
