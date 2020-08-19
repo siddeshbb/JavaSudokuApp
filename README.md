@@ -38,7 +38,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
+<!-- * [Usage](#usage) -->
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
@@ -78,12 +78,12 @@ git clone https://github.com/siddeshbb/JavaSudokuApp.git
 2. Run the Project
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
 
